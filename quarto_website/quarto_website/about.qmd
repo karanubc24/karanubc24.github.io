@@ -1,0 +1,7 @@
+---
+title: "About Myself"
+---
+
+Hey there! Welcome to my first website. 
+My name is Karan and I am a MDS student at UBC.
+Nice to meet you. 
